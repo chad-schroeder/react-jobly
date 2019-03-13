@@ -7,5 +7,4 @@ React-jobly is a React front end for the Jobly (Job Application App). It is buil
 - JavaScript ES8 (Uses async/await)
 - React.js - Front End Web Framework
 - React-Router - Routing Library for React
-- React-Styled Components - Component Styling
 - Axios - AJAX Library
