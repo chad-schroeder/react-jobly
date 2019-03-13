@@ -1,6 +1,6 @@
 # react-jobly
 
-React-jobly is a React front end for the Jobly (Job Application App). It is built with JavaScript, React, React Router, Styled Components and static assets.
+React-jobly is a React front end for the Jobly (Job Application App). It is built with JavaScript, React, React Router and static assets.
 
 ## Built With
 
